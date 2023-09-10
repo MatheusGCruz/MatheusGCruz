@@ -8,9 +8,12 @@ I have a very support focused profile. I learn a vast amount of programming lang
 I have a fast pace of learning, with a good adaptability, which makes me more agile to fix errors and problems in currently deployed applications, without worrying much about the software primary language. But I don't have much experience in complete development.
 I’m experienced a vast amount of computer languages, which varies from low level ones, like Assembly or C, to Back-end high level, such as C#, JAVA, VB, Front-end HTML, CSS, and even relational and non-relational databases, such as MSSQL, MySQL and MongoDB
 
-- 🔭 I’m currently working on two side projects:
-    A colaborative checklist aplication (to better do my groceries)
-    A colaborative budget control App (to get stats on my monthly purchases)
+- 🔭 I’m currently working on these side projects:
+    	A colaborative checklist aplication (to better do my groceries)
+    	A colaborative budget control App (to get stats on my monthly purchases)
+  	An application thats develops fast thinking
+  	
+  
 - 🌱 I’m currently learning
     JAVA (primary V17 on personal base and V11 on a professional enviroment)
     SpringBoot (V3.1.2)
