@@ -9,21 +9,22 @@ I have a fast pace of learning, with a good adaptability, which makes me more ag
 I’m experienced a vast amount of computer languages, which varies from low level ones, like Assembly or C, to Back-end high level, such as C#, JAVA, VB, Front-end HTML, CSS, and even relational and non-relational databases, such as MSSQL, MySQL and MongoDB
 
 - 🔭 I’m currently working on these side projects:
-    	A colaborative checklist aplication (to better do my groceries)
-    	A colaborative budget control App (to get stats on my monthly purchases)
-  	An application thats develops fast thinking
+  <br>	A colaborative checklist aplication (to better do my groceries)
+  <br>	A colaborative budget control App (to get stats on my monthly purchases)
+  <br>	An application thats develops fast thinking
+  <br>	An application that monitores the internet health
   	
   
 - 🌱 I’m currently learning
-    JAVA (primary V17 on personal base and V11 on a professional enviroment)
-    SpringBoot (V3.1.2)
-    Maven deploys
-    C# .NET 4.7.2 (windows application)
-    Tomcat (local and webservice hosting)
-    AWS RDB - SQL
-    AWS EC2
+     <br>	 JAVA (primary V17 on personal base and V11 on a professional enviroment)
+      <br>	SpringBoot (V3.1.2)
+      <br>	Maven deploys
+      <br>	C# .NET 4.7.2 (windows application)
+      <br>	Tomcat (local and webservice hosting)
+      <br>	AWS RDB - SQL
+      <br>	AWS EC2
 
-  All of my codes is open to public, only with the AuthAPI as an exception)
+    <br>	All of my codes is open to public, only with the AuthAPI as an exception)
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
